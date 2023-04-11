@@ -1,3 +1,3 @@
 # Javascript-Projects
-# Softuni JS Advancd & JS Applications courses
+# Softuni JS Advanced & JS Applications courses
 # Bonus awesome developed web game
