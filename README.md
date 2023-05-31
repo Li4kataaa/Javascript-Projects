@@ -1,1 +1,1 @@
-# Check the game ;)
+# @Everyting can be used for educational purposes!
